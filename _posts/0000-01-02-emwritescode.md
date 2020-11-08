@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What did Joe Biden say when Trump left the whitehouse? Bi-Den.
 Use the left arrow to go back!
